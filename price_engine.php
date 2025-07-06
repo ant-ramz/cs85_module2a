@@ -70,7 +70,7 @@
             //size upcharge
             if ($size == 'L'|| 'XL') {
                 $finalPrice = $finalPrice + 1.75;
-                    $details .= "<li>Size (L) Upcharge: <span>+$1.75</span></li>";
+                    $details .= "<li>Size L/XL Upcharge: <span>+$1.75</span></li>";
             }   
                
             //customized upcharge
